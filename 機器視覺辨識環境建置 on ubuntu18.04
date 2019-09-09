@@ -1,2 +1,2 @@
-
+本篇介紹如何在ubuntu18.04上建置一個深度學習平台，所使用的套件為cuda 10+cuDNN7.5.1+opencv3.4.4+tf-pose-estimation+caffe+openpose，請連下所示的網址
 https://sites.google.com/view/ubuntu18-04/%E9%A6%96%E9%A0%81
