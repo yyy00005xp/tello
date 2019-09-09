@@ -1,1 +1,2 @@
+本篇介紹如何在ubuntu16.04上建置一個深度學習平台，所使用的套件為cuda 8+cuDNN5.1+opencv3.4.1+caffe+openpose，請連下所示的網址
 https://sites.google.com/view/telloswarmvisualidentification/首頁
